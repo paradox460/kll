@@ -1,0 +1,58 @@
+Name = paradoxOverlayLayer2;
+Version = 0.1;
+Author = "Jeff Sandberg 2018";
+KLL = 0.5c;
+
+# Modified Date
+Date = 2018-06-06;
+
+
+####################
+# Left
+####################
+# R1
+U"Equals" : flashMode();
+
+# R2
+U"Function1" : U"Next Layer";
+
+# R3
+U"Function2" : U"Prev Layer";
+
+####################
+# Right
+####################
+
+# R1
+U"7" : U"NumLock";
+U"8" : U"P=";
+U"9" : U"P/";
+U"0" : U"P*";
+U"Minus" : flashMode();
+
+# R2
+U"U" : U"P7";
+U"I" : U"P8";
+U"O" : U"P9";
+U"P" : U"P-";
+
+# R3
+U"J" : U"P4";
+U"K" : U"P5";
+U"L" : U"P6";
+U"Semicolon" : U"P+";
+
+# R4
+U"M"      : U"P1";
+U"Comma"  : U"P2";
+U"Period" : U"P3";
+U"Slash"  : U"PEnter";
+
+# R5
+U"Left"  : U"P0";
+U"Down"  : U"P,";
+U"Up"    : U"P.";
+U"Right" : U"PEnter";
+
+# T2
+U"Space" : U"P0";

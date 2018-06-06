@@ -1,0 +1,67 @@
+Name = paradoxOverlay;
+Version = 0.1;
+Author = "Jeff Sandberg 2018";
+KLL = 0.5c;
+
+# Modified Date
+Date = 2018-06-06;
+
+# Generally go from upper left to lower right, divided into rows
+
+####################
+# LEFT SIDE
+####################
+
+# R1
+U"Equals" : U"Backtick";
+
+# R2
+U"Backslash" : U"Tab";
+U"Function1" : U"Equals";
+
+# R3
+U"Tab" : U"CapsLock";
+
+# R4
+U"Function2" : U"Backslash";
+
+# R5
+U"LGui"      : U"LCtrl";
+U"Backtick"  : U"LAlt";
+U"Function3" : U"LGui";
+U"Function4" : U"Left";
+U"Function5" : U"Right";
+
+# Thumb Cluster
+
+# T1
+U"LCtrl" : U"Home";
+U"LAlt"  : U"End";
+
+# T2
+U"Backspace" : U"Space";
+U"Home"      : U"Lock1";
+
+# T3
+U"End" : U"Function1";
+
+
+####################
+# Right Side
+####################
+
+# R1
+U"Function6" : U"Lock2";
+
+# R3
+U"Function7" : U"Function1";
+U"Quote"     : U"Enter";
+
+# R4
+U"Right Shift" : U"Quote";
+
+# T1
+U"RCtrl" : U"Right Shift";
+
+# T2
+U"Enter" : U"Backspace";

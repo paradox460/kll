@@ -1,0 +1,31 @@
+Name = paradoxOverlayLayer3;
+Version = 0.1;
+Author = "Jeff Sandberg 2018";
+KLL = 0.5c;
+
+# Modified Date
+Date = 2018-06-06;
+
+
+####################
+# Left
+####################
+# R1
+U"1"   : U"App" + U"F1";
+U"2"   : U"App" + U"F2";
+U"3"   : U"App" + U"F3";
+U"4"   : U"App" + U"F4";
+U"5"   : U"App" + U"F5";
+U"Esc" : U"App" + U"F11";
+
+####################
+# Right
+####################
+
+# R1
+U"Function6" : U"App" + U"F12";
+U"6"         : U"App" + U"F6";
+U"7"         : U"App" + U"F7";
+U"8"         : U"App" + U"F8";
+U"9"         : U"App" + U"F9";
+U"0"         : U"App" + U"F10";
