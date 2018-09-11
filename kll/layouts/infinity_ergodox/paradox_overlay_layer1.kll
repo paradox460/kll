@@ -16,12 +16,12 @@ Date = 2018-06-06;
 # R2
 
 # R3
-U"Tab"       : CON"Mute";
-U"A"         : CON"VolumeDown";
-U"S"         : CON"VolumeUp";
-U"D"         : CON"ScanPreviousTrack";
-U"F"         : CON"PausePlay";
-U"G"         : CON"ScanNextTrack";
+U"Tab"       : CONS"Mute";
+U"A"         : CONS"VolumeDown";
+U"S"         : CONS"VolumeUp";
+U"D"         : CONS0x0B6; # ScanPreviousTrack
+U"F"         : CONS0x0CD; # PausePlay
+U"G"         : CONS0x0B5; # ScanNextTrack
 
 # R4
 U"Function4" : U"App";
