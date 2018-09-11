@@ -14,7 +14,6 @@ Date = 2018-06-06;
 # R1: Take function keys from iced_func.kll
 
 # R2
-U"Function1" : U"Next Layer";
 
 # R3
 U"Tab"       : CON"Mute";
@@ -23,7 +22,6 @@ U"S"         : CON"VolumeUp";
 U"D"         : CON"ScanPreviousTrack";
 U"F"         : CON"PausePlay";
 U"G"         : CON"ScanNextTrack";
-U"Function2" : U"Prev Layer";
 
 # R4
 U"Function4" : U"App";

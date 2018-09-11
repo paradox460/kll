@@ -1,0 +1,17 @@
+Name = paradoxLayerChange;
+Version = 0.1;
+Author = "Jeff Sandberg 2018";
+KLL = 0.5c;
+
+# Modified Date
+Date = 2018-09-11;
+
+####################
+# Left
+####################
+
+# R2
+U"Function1" : U"Next Layer";
+
+# R3
+U"Function2" : U"Prev Layer";
